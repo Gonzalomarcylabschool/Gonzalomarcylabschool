@@ -6,8 +6,6 @@
 
 ##  About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 -  **Educator since 2011** — over a decade of inspiring learners  
 -  **Senior Lead Instructor at The Marcy Lab School** (since 2022), leading technical instruction with clarity, care, and creativity :contentReference[oaicite:0]{index=0}  
 - Originally from **Puebla, Mexico**, grew up in **South Brooklyn**, and deeply committed to the community I serve :contentReference[oaicite:1]{index=1}  
