@@ -8,10 +8,13 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
--  **Educator since 2011** — over a decade of teaching experience  
--  Working at **The Marcy Lab School** since 2022 — bringing SWE education to folks who might not otherwise have access  
--  Skilled in **JavaScript**, **Python**, **React**, and more  
--  Passionate about creating inclusive, hands-on learning paths for all
+-  **Educator since 2011** — over a decade of inspiring learners  
+-  **Senior Lead Instructor at The Marcy Lab School** (since 2022), leading technical instruction with clarity, care, and creativity :contentReference[oaicite:0]{index=0}  
+- Originally from **Puebla, Mexico**, grew up in **South Brooklyn**, and deeply committed to the community I serve :contentReference[oaicite:1]{index=1}  
+- Skilled in **JavaScript**, **Python**, **React**, and more  
+- Passionate about creating **inclusive software engineering education** for learners who might never otherwise discover it
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-romero-931841230)
 
 ---
 
@@ -33,20 +36,23 @@
 
 <details>
 <summary>🎉 Recent Highlights</summary>
--  Developing new curriculum materials to help broaden access to software engineering  
--  Hosting hands-on workshops for underrepresented learners  
--  Collaborating on open-source tools to support inclusive education  
+-  Developed inclusive educational tools and curriculum for diverse learners  
+-  Led engaging, hands-on workshops at The Marcy Lab School  
+-  Collaborated on open-source projects supporting equitable educational access  
 </details>
 
 ---
 
 ##  Featured Projects
 
-| Project                    | Description                                    | Technologies                  | Status |
-|---------------------------|------------------------------------------------|-------------------------------|--------|
-| **Helper Functions**       | Reusable JS utilities with explanations         | JavaScript                    | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
-| **Local Weather App**      | Weather display using API                       | JavaScript, HTML/CSS          | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
-| **Basic Password Generator** | Secure password generator in Python           | Python                        | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [**Listly To-Do App**](https://github.com/Gonzalomarcylabschool/listly-todo-app) | A dynamic, list-based to-do application that helps learners build practical UI/UX skills | JavaScript, React | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+| [**Adding a Linter**](https://github.com/Gonzalomarcylabschool/adding-a-linter) | A starter guide tutorial on integrating code quality tools into development workflows | JavaScript, ESLint | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+
+</div>
 
 ---
 
@@ -57,19 +63,22 @@
 
 ---
 
-##  Connect & Fun
+##  Connect & Philosophy
 
 <details>
-<summary>📫 Reach Out</summary>
-**Email:** gonzalo@marcylabschool.org  
-**Location:** Brooklyn, NY  
-[LinkedIn – *(Add your link)*]  
-[Portfolio – *(Add your link if available)*]
+<summary>📫 Get in Touch</summary>
+
+- **Email:** gonzalo@marcylabschool.org  
+- **LinkedIn:** [Gonzalo Romero](https://www.linkedin.com/in/gonzalo-romero-931841230)  
+- **Location:** Brooklyn, NY  
+
 </details>
 
 <details>
-<summary>💭 Favorite Thought</summary>
-<i>"Teaching code isn’t just syntax—it’s unlocking opportunity." — Gonzalo</i>
+<summary>💭 Teaching Ethos</summary>
+
+<i>"A master of absorbing large amounts of information and distilling it in digestible ways—bringing clarity and fun to every lecture." — Marcy Lab School bio :contentReference[oaicite:2]{index=2}</i>
+
 </details>
 
 ---
