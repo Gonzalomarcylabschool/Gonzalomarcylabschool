@@ -6,13 +6,13 @@
 
 ##  About Me
 
--  **Educator since 2011** — over a decade of inspiring learners  
--  **Senior Lead Instructor at The Marcy Lab School** (since 2022), leading technical instruction with clarity, care, and creativity :contentReference[oaicite:0]{index=0}  
-- Originally from **Puebla, Mexico**, grew up in **South Brooklyn**, and deeply committed to the community I serve :contentReference[oaicite:1]{index=1}  
-- Skilled in **JavaScript**, **Python**, **React**, and more  
-- Passionate about creating **inclusive software engineering education** for learners who might never otherwise discover it
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-romero-931841230)
+-  **Educator for over 12 years**, with experience as a music teacher, administrator, and most recently, a computer science teacher at a Williamsburg high school.  
+-  **Senior Lead Instructor at The Marcy Lab School**, leading fellows in technical instruction with clarity, care, and lots of love.  
+-  Born in **Puebla, Mexico**, and raised in **South Brooklyn**—I now live just a few neighborhoods away and plan to stay put.  
+-  A master at absorbing large amounts of information and distilling it into digestible, engaging lessons—bringing clarity and fun to every lecture.  
+-  When I'm not teaching future engineers, you’ll often find me ice skating, playing hockey, playing chess, or skateboarding—usually while listening to my eclectic *Skate* playlist (rap, punk/alt rock, TSwift, screamo, and EDM).  
+-  Skilled in **JavaScript**, **Python**, **React**, and more.  
+-  Committed to bringing **software engineering education** to learners who might not otherwise have access.
 
 ---
 
@@ -34,9 +34,9 @@
 
 <details>
 <summary>🎉 Recent Highlights</summary>
--  Developed inclusive educational tools and curriculum for diverse learners  
--  Led engaging, hands-on workshops at The Marcy Lab School  
--  Collaborated on open-source projects supporting equitable educational access  
+-  Developing inclusive curriculum at The Marcy Lab School.  
+-  Designing workshops and resources to expand access to tech.  
+-  Collaborating on open-source tools fostering equitable learning.
 </details>
 
 ---
@@ -47,8 +47,8 @@
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| [**Listly To-Do App**](https://github.com/Gonzalomarcylabschool/listly-todo-app) | A dynamic, list-based to-do application that helps learners build practical UI/UX skills | JavaScript, React | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
-| [**Adding a Linter**](https://github.com/Gonzalomarcylabschool/adding-a-linter) | A starter guide tutorial on integrating code quality tools into development workflows | JavaScript, ESLint | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+| [**Listly To-Do App**](https://github.com/Gonzalomarcylabschool/listly-todo-app) | A dynamic, list-based to-do app perfect for hands-on UX/UI learning | JavaScript, React | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+| [**Adding a Linter**](https://github.com/Gonzalomarcylabschool/adding-a-linter) | A tutorial for integrating code quality tools into development workflows | JavaScript, ESLint | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
 
 </div>
 
@@ -56,31 +56,28 @@
 
 ##  GitHub Stats
 
-![Gonzalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonzalomarcylabschool&show_icons=true&theme=dark&hide_rank=true)
+![Gonzalo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonzalomarcylabschool&show_icons=true&theme=dark&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalomarcylabschool&layout=compact&theme=dark)
 
 ---
 
-##  Connect & Philosophy
+##  Connect & Teaching Philosophy
 
-<details>
-<summary>📫 Get in Touch</summary>
+<p align="center">
+  <a href="mailto:gonzalo@marcylabschool.org">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gonzalo-romero-931841230">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-- **Email:** gonzalo@marcylabschool.org  
-- **LinkedIn:** [Gonzalo Romero](https://www.linkedin.com/in/gonzalo-romero-931841230)  
-- **Location:** Brooklyn, NY  
 
-</details>
-
-<details>
-<summary>💭 Teaching Ethos</summary>
-
-<i>"A master of absorbing large amounts of information and distilling it in digestible ways—bringing clarity and fun to every lecture." — Marcy Lab School bio :contentReference[oaicite:2]{index=2}</i>
-
-</details>
+<details> <summary>💭 Teaching Ethos</summary> <i>"A master at absorbing complex information and distilling it into clear, engaging lessons—bringing both clarity and enjoyment to every lecture." — The Marcy Lab School bio</i> </details>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=355E3B&height=120&section=footer" />
 </div>
+
