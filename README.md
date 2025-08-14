@@ -1,4 +1,4 @@
-# Hi, I'm Gonzalo 🫶
+# Hi, I'm Gonzalo 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=355E3B&width=900&lines=Educator+since+2011;+SWE+educator+at+The+Marcy+Lab+School+since+2022)](https://git.io/typing-svg)
 
