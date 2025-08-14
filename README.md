@@ -36,13 +36,23 @@
 ---
 
 ## 📚 What I Teach
-- JavaScript fundamentals & advanced concepts
-- React & state management
-- Building & consuming APIs
-- Full-stack PERN development
-- Git & version control workflows
-- Agile teamwork & project management
-- Technical communication for developers
+| Topics | Concepts |
+|--------|--------|
+| **Fundamentals** | CLI, Git & GitHub workflows |
+| **JavaScript** | Syntax, Node, HOFs, Regex, error handling |
+| **Front-End** | HTML, CSS, a11y, DOM, Vite, LocalStorage |
+| **Async & APIs** | Promises, Fetch, async/await, fetch handlers |
+| ** Project Weeks** | Vite projects, GH Orgs, Scrum workflows, deployment |
+| **OOP** | Encapsulation, classes, closures, inheritance, polymorphism |
+| **DS & Algos** | Linked lists, stacks, queues, recursion, trees |
+| **React** | React fundamentals, context, routing, project builds |
+| **Backend** | Express, REST APIs, SQL (PostgreSQL), Knex, schema design, auth, full-stack |
+
+---
+
+*Happy to weave in project examples or personalize phrasing further—just say the word!*
+::contentReference[oaicite:11]{index=11}
+
 
 ---
 
