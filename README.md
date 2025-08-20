@@ -42,7 +42,7 @@
 | **JavaScript** | Syntax, Node, HOFs, Regex, error handling |
 | **Front-End** | HTML, CSS, a11y, DOM, Vite, LocalStorage |
 | **Async & APIs** | Promises, Fetch, async/await, fetch handlers |
-| ** Project Weeks** | Vite projects, GH Orgs, Scrum workflows, deployment |
+| **Project Weeks** | Vite projects, GH Orgs, Scrum workflows, deployment |
 | **OOP** | Encapsulation, classes, closures, inheritance, polymorphism |
 | **DS & Algos** | Linked lists, stacks, queues, recursion, trees |
 | **React** | React fundamentals, context, routing, project builds |
