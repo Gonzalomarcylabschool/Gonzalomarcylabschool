@@ -5,11 +5,10 @@
 ---
 
 ## 👨‍🏫 About Me
-- **Educator for 12+ years** — from music teacher & administrator to computer science instructor.
-- **Senior Lead Instructor [The Marcy Lab School](https://www.marcylabschool.org/people/gonzalo-romero)**, guiding fellows in software engineering with clarity, care, and curiosity.
+- **Educator for 14+ years** — from music teacher & administrator to software engineering instructor.
+- **Senior Lead Instructor at [The Marcy Lab School](https://www.marcylabschool.org/people/gonzalo-romero)**, guiding fellows through a rigorous software engineering fellowship with clarity, care, and curiosity.
 - Born in **Puebla, Mexico** • Raised in **South Brooklyn** • Still repping Brooklyn.
-- **Strengths**: Breaking down complexity, fostering inclusive learning spaces, making tech approachable.
-- Off the keyboard: ice skating, hockey, chess, skateboarding, and making *Skate* playlists (rap → punk → TSwift → screamo → EDM).
+- **Strengths**: Breaking down complexity, fostering inclusive learning spaces, making tech approachable for everyone.
 - **Mission**: Expand access to software engineering education for underrepresented learners.
 
 ---
@@ -36,7 +35,6 @@
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?logo=api&logoColor=white&style=for-the-badge)
 
-
 ---
 
 ## 📚 What I Teach
@@ -51,12 +49,6 @@
 | **DS & Algos** | Linked lists, stacks, queues, recursion, trees |
 | **React** | React fundamentals, context, routing, project builds |
 | **Backend** | Express, REST APIs, SQL (PostgreSQL), Knex, schema design, auth, full-stack |
-
----
-
-*Happy to weave in project examples or personalize phrasing further—just say the word!*
-::contentReference[oaicite:11]{index=11}
-
 
 ---
 
@@ -97,5 +89,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=355E3B&height=120&section=footer" />
 </div>
-
-
